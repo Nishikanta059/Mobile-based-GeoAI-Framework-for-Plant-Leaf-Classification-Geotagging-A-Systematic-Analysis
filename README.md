@@ -1,4 +1,4 @@
-# GeoAI-based Mobile Leaf Classification System
+# Mobile based GeoAI Framework for Plant Leaf Classification & Geotagging: A Systematic Analysis
 
 ## Abstract
 
