@@ -1,5 +1,15 @@
 # Mobile based GeoAI Framework for Plant Leaf Classification & Geotagging: A Systematic Analysis
 
+**Authors:** N. Parida, D. K. Dalei, and N. Panigrahi  
+**Conference:** 2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT)  
+**Location:** Delhi, India  
+**Year:** 2023  
+**Pages:** 1-6  
+**DOI:** [10.1109/ICCCNT56998.2023.10306809](https://doi.org/10.1109/ICCCNT56998.2023.10306809)  
+**URL:** [IEEE Xplore Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10306809&isnumber=10306339)
+
+---
+
 ## Demo
 ![TreeMap](https://github.com/user-attachments/assets/5fafc2c5-7803-437e-8aef-715e004161c6)
 
