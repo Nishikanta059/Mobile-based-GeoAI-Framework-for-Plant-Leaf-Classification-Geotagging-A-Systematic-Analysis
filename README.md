@@ -57,7 +57,7 @@ The system is designed with a client-server model. The **client module** operate
 - **Flask (Python)**: A micro web framework used to host the server.
 - **Deep Learning Models**:
   - **U2Net**: For image masking.
-  - **ResNet50**: For leaf classification, trained on the LeafMX dataset.
+  - **ResNet50**: For leaf classification, trained on multiple datasets.
 - **Ngrok**: Allows the local machine to be accessed over the internet, enabling remote processing.
 
 #### 3. **Mobile Client**
