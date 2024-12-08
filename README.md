@@ -1,8 +1,7 @@
 # Mobile based GeoAI Framework for Plant Leaf Classification & Geotagging: A Systematic Analysis
 
 ## Demo
-
-![TreeMap](https://github.com/user-attachments/assets/8b47cb81-1913-46f2-b11a-4e56600b027c)
+![TreeMap](https://github.com/user-attachments/assets/5fafc2c5-7803-437e-8aef-715e004161c6)
 
 https://github.com/user-attachments/assets/f15be7a0-1d78-428a-9bb3-fb779a56cfd1
 
