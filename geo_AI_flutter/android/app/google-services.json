@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684708293678",
+    "project_id": "drdo-leaf",
+    "storage_bucket": "drdo-leaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684708293678:android:33ef607f6bfc8e3ab1c3bf",
+        "android_client_info": {
+          "package_name": "com.example.drdo_public"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684708293678-41iq3b6hdgqgp1v7qscn897gkq5qekrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtSWCurCRw0tyhD-kQ9jWVjfBnkRJboAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684708293678-41iq3b6hdgqgp1v7qscn897gkq5qekrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
