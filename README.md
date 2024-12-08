@@ -1,5 +1,13 @@
 # Mobile based GeoAI Framework for Plant Leaf Classification & Geotagging: A Systematic Analysis
 
+## Demo
+
+![TreeMap](https://github.com/user-attachments/assets/8b47cb81-1913-46f2-b11a-4e56600b027c)
+
+https://github.com/user-attachments/assets/f15be7a0-1d78-428a-9bb3-fb779a56cfd1
+
+
+
 ## Abstract
 
 Plants are critical for sustaining life on Earth by providing food and oxygen necessary for living beings. With an abundance of plant species, biologists, researchers, and nature lovers continuously study and analyze these species. Plants have been sources of food and medicine throughout human history, with the medicinal values of plants being a key area of research for discovering new drugs. Moreover, the use of edible leaves for food in critical situations such as military operations and civilian activities like trekking has significant potential.
